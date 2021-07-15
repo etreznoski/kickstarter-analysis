@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter Analysis
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 >There are more campaigns in the Theater category than any other category. This could indicate that there are fewer options outside of Kickstarter to get funding for these types of projects.
